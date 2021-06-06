@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Shahed Chowdhury Omi</h1>
-<h3 align="center">A passionate software engineer from Bangladesh</h3>
-
-- 🌱 I’m currently learning **Web development and AI**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/shahed.chowdhury.50767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahed.chowdhury.50767" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
+### Hi there 👋
+I am Shahed Chowdhury Omi from Bangladesh . I study at American International University of Bangladesh on Computer Science and Software engineering . I am really passionate about learning to code and make new projects . 
+I believe in the process of " never stop learning " .
+Other than coding I love to watch various TV series , playing games both physically and online . Living to grow is the integral moto of me . 
+You can connect with me on https://www.facebook.com/shahed.chowdhury.50767 , and please do check out my repositories to verify about my proficiencies . 
+My skills include :
+  1) Web development 
+Tools I use to build Websites  are :
+  1) HTML
+  2) CSS
+  3) JavaScript
+  4) Node.js
+  5) Express
+  6) Mongdb
+I have started coding since March 2020 , before that I have coded on C & C++ but wasn't too much focused on them. I will continue to build my skills as days pass by . 
+Other than the tools I use to build websites I also work with 1) Python 2) C 3)Php , again check out my repositories to verify my work .
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahed1998)](https://github.com/anuraghazra/github-readme-stats)
 
