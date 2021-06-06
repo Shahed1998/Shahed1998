@@ -5,7 +5,7 @@ Other than coding I love to watch various TV series , playing games both physica
 You can connect with me on https://www.facebook.com/shahed.chowdhury.50767 , and please do check out my repositories to verify about my proficiencies . 
 My skills include :
   1) Web development 
-Tools I use to build Websites  are :
+Tools I use to build Websites  are :<br/>
   1) HTML
   2) CSS
   3) JavaScript
