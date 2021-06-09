@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Shahed Chowdhury Omi from Bangladesh.I study at American International University of Bangladesh on Computer Science and Software engineering.I am really passionate about learning to code and make new projects. <br/>
+I am Shahed Chowdhury Omi from Bangladesh studying at American International University of Bangladesh on Computer Science and Software engineering.I am really passionate about learning to code and make new projects. <br/>
 I believe in the process of " never stop learning ".<br/>
 
 My skills include: <br/>
