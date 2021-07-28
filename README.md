@@ -10,9 +10,9 @@ Tools I use to build Websites  are :<hr><br/>
   1) HTML
   2) CSS
   3) JavaScript
-  4) Node.js
+  4) Node.js/php
   5) Express
-  6) Mongdb
+  6) Mongdb/mySql
   7) Heroku
 <br/>
 
