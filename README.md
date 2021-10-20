@@ -1,4 +1,5 @@
-### Hi there 😀
+### Hi there
+https://giphy.com/clips/studiosoriginals-reaction-emotion-sup-84CwF8bgL9mLf3VmAC
 I am Shahed Chowdhury Omi from Bangladesh studying at American International University of Bangladesh on Computer Science and Software engineering 👨‍💻.I am really passionate about learning to code and make new projects. <br/>
 I believe in the process of " never stop learning ".<br/>
 
