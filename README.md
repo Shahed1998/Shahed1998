@@ -1,9 +1,3 @@
-<style>
-    b{
-        color:red;
-    }
-</style>
-
 <table>
  <tr>
     <td>
