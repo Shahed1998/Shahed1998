@@ -1,5 +1,6 @@
 ![giphy (1)](https://user-images.githubusercontent.com/62134536/138179396-9e04ce22-12a3-4c5e-b9e6-fe1b09a181aa.gif)
-<img src="/62134536/138179396-9e04ce22-12a3-4c5e-b9e6-fe1b09a181aa.gif" width="250" height="250"/>
+<img src="https://user-images.githubusercontent.com/62134536/138179396-9e04ce22-12a3-4c5e-b9e6-fe1b09a181aa.gif" width="250" height="250"/>
+
 <table border="0">
  <tr>
     <td></td>
