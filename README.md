@@ -13,17 +13,30 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahed1998)](https://github.com/anuraghazra/github-readme-stats)
  
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    div {
+      color: white;
+      font: 18px serif;
+      height: 100%;
+      overflow: auto;
+    }
+  </style>
+
+  <polygon points="5,5 195,10 185,185 10,195" />
+
+  <!-- Common use case: embed HTML text into SVG -->
+  <foreignObject x="20" y="20" width="160" height="160">
+    <!--
+      In the context of SVG embedded in an HTML document, the XHTML
+      namespace could be omitted, but it is mandatory in the
+      context of an SVG document
+    -->
     <div xmlns="http://www.w3.org/1999/xhtml">
-
-      <style>
-        /* your CSS */
-        b{ color:red; }
-      </style>
-
-      <!-- your HTML -->
-      <b><i>Some text</i></b>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Sed mollis mollis mi ut ultricies. Nullam magna ipsum,
+      porta vel dui convallis, rutrum imperdiet eros. Aliquam
+      erat volutpat.
     </div>
   </foreignObject>
 </svg>
