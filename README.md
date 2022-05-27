@@ -9,7 +9,7 @@
    <tr>
       <td>Technologies I am familiar with</td>
       <td>
-         <img src="![html-logo](https://user-images.githubusercontent.com/62134536/170682171-22f5f054-7fbb-4839-a508-6f27520fd889.png)" width="200" height="200"/>
+         <img src="https://user-images.githubusercontent.com/62134536/170682171-22f5f054-7fbb-4839-a508-6f27520fd889.png" width="200" height="200"/>
       </td>
    </tr>
     </table>
