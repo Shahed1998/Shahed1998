@@ -8,8 +8,9 @@
      </tr>
    <tr>
       <td>Technologies I am familiar with</td>
-      <td>![download](https://user-images.githubusercontent.com/62134536/170680827-f27d088d-f8f9-4f2c-974c-1f856c9c5572.jpg)
-</td>
+      <td>
+         <img src="https://user-images.githubusercontent.com/62134536/138182635-822afd01-3be5-4291-b555-dcd7320e9f74.gif" width="1000" height="280"/>
+      </td>
    </tr>
     </table>
   <br/>
