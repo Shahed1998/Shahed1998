@@ -8,9 +8,7 @@
      </tr>
    <tr>
       <td>Technologies I am familiar with</td>
-      <td>
-         
-      </td>
+      <td></td>
    </tr>
     </table>
   <br/>
