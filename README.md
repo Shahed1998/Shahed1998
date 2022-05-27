@@ -6,6 +6,10 @@
       <td>I am <b>Shahed Chowdhury Omi</b> from Bangladesh, studying at <a href="https://www.aiub.edu/">American International University of Bangladesh</a> on Computer Science and           Software engineering 👨‍💻.I love coding and building apps and my motto is "keep trying".
       </td>
      </tr>
+   <tr>
+      <td>Technologies I am familiar with</td>
+      <td></td>
+   </tr>
     </table>
   <br/>
 
