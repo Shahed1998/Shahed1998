@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahed Chowdhury Omi</h1>
-<img src="https://user-images.githubusercontent.com/62134536/138182635-822afd01-3be5-4291-b555-dcd7320e9f74.gif" width="200" height="200" style="margin:auto"/>
+<img align="center" src="https://user-images.githubusercontent.com/62134536/138182635-822afd01-3be5-4291-b555-dcd7320e9f74.gif" width="200" height="200"/>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahed1998&label=Profile%20views&color=0e75b6&style=flat" alt="shahed1998" /> </p>
