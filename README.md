@@ -1,23 +1,11 @@
-   <table>
-      <tr>
-       <td>
-        <img src="https://user-images.githubusercontent.com/62134536/138182635-822afd01-3be5-4291-b555-dcd7320e9f74.gif" width="1000" height="280"/>
-      </td>
-      <td>I am <b>Shahed Chowdhury Omi</b> from Bangladesh, studying at <a href="https://www.aiub.edu/">American International University of Bangladesh</a> on Computer Science and           Software engineering 👨‍💻.I love coding and building apps and my motto is "keep trying".
-      </td>
-     </tr>
-   <tr>
-      <td>Technologies I am familiar with</td>
-      <td>
-         <img src="https://user-images.githubusercontent.com/62134536/170682171-22f5f054-7fbb-4839-a508-6f27520fd889.png" width="50" height="50"/>
-         <img src="https://user-images.githubusercontent.com/62134536/170682681-7a5f7a6e-e269-4dfa-8c27-83a36509960b.png" width="50" height="50"/>
-      </td>
+<h1 align="center">Hi 👋, I'm Shahed Chowdhury Omi</h1>
+<h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-   </tr>
-    </table>
-  <br/>
+- 👨‍💻 All of my projects are available at [https://github.com/Shahed1998?tab=repositories](https://github.com/Shahed1998?tab=repositories)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahed1998)](https://github.com/anuraghazra/github-readme-stats)
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
