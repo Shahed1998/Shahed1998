@@ -40,7 +40,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif"  />
+<img align="center" height="200" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif"  />
 
 ###
 
