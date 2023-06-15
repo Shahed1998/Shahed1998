@@ -2,16 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahed1998&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -38,6 +28,22 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/eNwO33cDf7H60uqErv/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahed1998&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/shahed-chowdhury-omi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -49,8 +55,8 @@
 
 ###
 
-<br clear="both">
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahed1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
