@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img align="right" height="50" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif"  />! My name is Shahed and I'm a programmer, from Bangladesh</h2>
+<h2 align="center"><img align="left" height="50" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif"  /> Hi ! My name is Shahed and I'm a programmer, from Bangladesh <img align="right" height="50" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif"  /></h2>
 
 ###
 
